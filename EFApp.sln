@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFApp.FormUI", "EFApp.FormU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfApp.WithUIConsole", "EfApp.WithUIConsole\EfApp.WithUIConsole.csproj", "{7C67F404-5739-4FD7-AC02-49AE01F3519C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFApp.WithUIConsol2", "EFApp.WithUIConsol2\EFApp.WithUIConsol2.csproj", "{EA940E4D-FC4D-4DF7-83E9-3858D5788632}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7C67F404-5739-4FD7-AC02-49AE01F3519C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C67F404-5739-4FD7-AC02-49AE01F3519C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C67F404-5739-4FD7-AC02-49AE01F3519C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA940E4D-FC4D-4DF7-83E9-3858D5788632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA940E4D-FC4D-4DF7-83E9-3858D5788632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA940E4D-FC4D-4DF7-83E9-3858D5788632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA940E4D-FC4D-4DF7-83E9-3858D5788632}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
