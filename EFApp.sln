@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFApp.WithUIConsol2", "EFAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFApp.WithUIConsol3", "EFApp.WithUIConsol3\EFApp.WithUIConsol3.csproj", "{03F01A1D-1A33-4289-B266-FA6FFE8EC801}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFApp.LinqToObjects", "EFApp.LinqToObjects\EFApp.LinqToObjects.csproj", "{CC222540-AF65-40F5-82A6-F0603C9FABE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFApp.Linq", "EFApp.Linq\EFApp.Linq.csproj", "{EF0390F3-0CFA-4B27-A55C-8498CAAF2E4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{03F01A1D-1A33-4289-B266-FA6FFE8EC801}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03F01A1D-1A33-4289-B266-FA6FFE8EC801}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03F01A1D-1A33-4289-B266-FA6FFE8EC801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC222540-AF65-40F5-82A6-F0603C9FABE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC222540-AF65-40F5-82A6-F0603C9FABE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC222540-AF65-40F5-82A6-F0603C9FABE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC222540-AF65-40F5-82A6-F0603C9FABE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0390F3-0CFA-4B27-A55C-8498CAAF2E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0390F3-0CFA-4B27-A55C-8498CAAF2E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0390F3-0CFA-4B27-A55C-8498CAAF2E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0390F3-0CFA-4B27-A55C-8498CAAF2E4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
